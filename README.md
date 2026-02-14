@@ -1,9 +1,5 @@
 # Sortshot
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400/4ECDC4/FFFFFF?text=Screenshot+Renamer+Pro" alt="Project Banner" width="100%">
-</p>
-
 ## Basic Details
 
 ### Team Name: Zafron
@@ -13,7 +9,7 @@
 - Member 2: Hiba M - MAMO College
 
 ### Hosted Project Link
-[Add your GitHub repository link here]
+https://github.com/s1dwuff/Sortshot.git
 
 ### Project Description
 Sortshot is an intelligent screenshot organization tool powered by AI assistance that helps you automatically categorize, rename, and organize screenshots into custom folders like tickets, chats, funny, movie, and more. Built with Python and enhanced by AI-generated components for smarter file management.
@@ -267,5 +263,6 @@ funny_meme.jpg
 - Aysha Sidrah : UI/UX design, Tkinter implementation, image processing features - **Used AI for layout generation**
 
 ---
+
 
 Made with ❤️ at TinkerHub 
