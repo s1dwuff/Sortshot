@@ -97,7 +97,7 @@ python main.py
 *Shows the history of the files renamed.*
 
 #### Video Demo
-C:\Users\sidra\Desktop\sortshot\Sortshot Demo.mp4
+https://drive.google.com/file/d/1C6obbny1cMMgxt0Vss2ptckoHQEUe-tb/view?usp=drive_link
 
 **Application Workflow:**
 
@@ -269,6 +269,7 @@ funny_meme.jpg
 
 
 Made with ❤️ at TinkerHub 
+
 
 
 
