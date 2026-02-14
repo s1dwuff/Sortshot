@@ -96,9 +96,6 @@ python main.py
 ![History](history.png)
 *Shows the history of the files renamed.*
 
-#### Demo
-(Sortshot Demo.mp4) 
-
 **Application Workflow:**
 
 ```mermaid
@@ -163,6 +160,7 @@ python main.py
 ```
 
 #### Demo Output
+ 
 
 **Example 1: Basic Screenshot Organization**
 
@@ -268,4 +266,5 @@ funny_meme.jpg
 
 
 Made with ❤️ at TinkerHub 
+
 
