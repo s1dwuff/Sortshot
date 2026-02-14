@@ -96,6 +96,9 @@ python main.py
 ![History](history.png)
 *Shows the history of the files renamed.*
 
+#### Video Demo
+C:\Users\sidra\Desktop\sortshot\Sortshot Demo.mp4
+
 **Application Workflow:**
 
 ```mermaid
@@ -266,5 +269,6 @@ funny_meme.jpg
 
 
 Made with ❤️ at TinkerHub 
+
 
 
