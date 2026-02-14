@@ -96,6 +96,8 @@ python main.py
 ![History](history.png)
 *Shows the history of the files renamed.*
 
+#### Demo
+(Sortshot Demo.mp4) 
 
 **Application Workflow:**
 
@@ -266,3 +268,4 @@ funny_meme.jpg
 
 
 Made with ❤️ at TinkerHub 
+
